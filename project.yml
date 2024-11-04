@@ -1,0 +1,5 @@
+packages:
+    - name: ipad-checker
+      actions:
+        - name: ipad-checker
+          runtime: nodejs:default

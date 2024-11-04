@@ -1,0 +1,10 @@
+{
+  "name": "ipad-checker",
+  "version": "1.0.0",
+  "main": "ipad-checker.js",
+  "description": "iPad availability checker with Telegram notifications",
+  "dependencies": {
+    "node-fetch": "^2.6.9",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
